@@ -1,5 +1,3 @@
-# Doku_Public
-
 # Installation von Cuda und ManagedCuda
 
 
