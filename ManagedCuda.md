@@ -20,11 +20,11 @@ PM> Install-Package ManagedCuda-100 -Version 10.0.31
 
 PM> Install-Package ManagedCuda-NVRTC -Version 10.0.31  <- includes lots of libraries
 
-PM> Install-Package ManagedCuda-CUBLAS -Version 10.0.31
+PM> Install-Package ManagedCuda-CUBLAS -Version 10.0.31 (Angepasst FFa)
 
 PM> Install-Package ManagedCuda-NPP -Version 10.0.31
 
-PM> Install-Package ManagedCuda-Nvml.NETStandard -Version 9.1.300
+PM> Install-Package ManagedCuda-Nvml.NETStandard -Version 9.1.300 (Dieses Paket muss installiert / mit allen anderen ManagedCuda deinstalliert / neuinstalliert werden)
 
 Konfigurationsmanager auf 64x
 
