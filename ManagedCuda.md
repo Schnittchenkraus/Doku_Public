@@ -24,6 +24,8 @@ PM> Install-Package ManagedCuda-CUBLAS -Version 10.0.31
 
 PM> Install-Package ManagedCuda-NPP -Version 10.0.31
 
+PM> Install-Package ManagedCuda-Nvml.NETStandard -Version 9.1.300
+
 Konfigurationsmanager auf 64x
 
 Pfad zu nvrtc64_100.dll anpassen oder file in Debugordner kopieren 
